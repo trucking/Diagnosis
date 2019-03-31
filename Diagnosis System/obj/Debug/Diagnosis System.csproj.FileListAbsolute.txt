@@ -1,0 +1,12 @@
+d:\visual studio\c#\Diagnosis System\Diagnosis System\bin\Debug\Diagnosis System.exe
+d:\visual studio\c#\Diagnosis System\Diagnosis System\bin\Debug\Diagnosis System.pdb
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\Debug\Diagnosis System.csprojAssemblyReference.cache
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\Debug\Diagnosis_System.login.resources
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\Debug\Diagnosis_System.Properties.Resources.resources
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\Debug\Diagnosis System.csproj.GenerateResource.cache
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\Debug\Diagnosis System.csproj.CoreCompileInputs.cache
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\Debug\Diagnosis System.exe
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\Debug\Diagnosis System.pdb
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\Debug\Diagnosis_System.MainWindow.resources
+d:\visual studio\c#\Diagnosis System\Diagnosis System\bin\Debug\AccessLib.dll
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\Debug\Diagnosis System.csproj.CopyComplete

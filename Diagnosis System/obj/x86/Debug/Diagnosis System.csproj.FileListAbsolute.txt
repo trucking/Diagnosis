@@ -1,0 +1,15 @@
+d:\visual studio\c#\Diagnosis System\Diagnosis System\bin\x86\Debug\Diagnosis System.exe
+d:\visual studio\c#\Diagnosis System\Diagnosis System\bin\x86\Debug\Diagnosis System.pdb
+d:\visual studio\c#\Diagnosis System\Diagnosis System\bin\x86\Debug\AccessLib.dll
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis_System.login.resources
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis_System.MainWindow.resources
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis_System.Properties.Resources.resources
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis System.csproj.GenerateResource.cache
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis System.csproj.CoreCompileInputs.cache
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis System.csproj.CopyComplete
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis System.exe
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis System.pdb
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis System.csprojAssemblyReference.cache
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis_System.sysUser.AddUserForm.resources
+d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis_System.sysUser.UserListForm.resources
+D:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis_System.sys.LogViewForm.resources
