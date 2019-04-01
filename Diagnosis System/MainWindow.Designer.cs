@@ -66,13 +66,14 @@
             // 新建人员档案ToolStripMenuItem
             // 
             this.新建人员档案ToolStripMenuItem.Name = "新建人员档案ToolStripMenuItem";
-            this.新建人员档案ToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.新建人员档案ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.新建人员档案ToolStripMenuItem.Text = "新建人员档案";
+            this.新建人员档案ToolStripMenuItem.Click += new System.EventHandler(this.新建人员档案ToolStripMenuItem_Click);
             // 
             // 查找档案ToolStripMenuItem
             // 
             this.查找档案ToolStripMenuItem.Name = "查找档案ToolStripMenuItem";
-            this.查找档案ToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
+            this.查找档案ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.查找档案ToolStripMenuItem.Text = "查找档案";
             // 
             // 就诊记录ToolStripMenuItem
@@ -100,21 +101,21 @@
             // 添加用户ToolStripMenuItem
             // 
             this.添加用户ToolStripMenuItem.Name = "添加用户ToolStripMenuItem";
-            this.添加用户ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.添加用户ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.添加用户ToolStripMenuItem.Text = "添加用户";
             this.添加用户ToolStripMenuItem.Click += new System.EventHandler(this.添加用户ToolStripMenuItem_Click);
             // 
             // 修改用户ToolStripMenuItem
             // 
             this.修改用户ToolStripMenuItem.Name = "修改用户ToolStripMenuItem";
-            this.修改用户ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.修改用户ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.修改用户ToolStripMenuItem.Text = "用户管理";
             this.修改用户ToolStripMenuItem.Click += new System.EventHandler(this.修改用户ToolStripMenuItem_Click);
             // 
             // 系统日志ToolStripMenuItem
             // 
             this.系统日志ToolStripMenuItem.Name = "系统日志ToolStripMenuItem";
-            this.系统日志ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.系统日志ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
             this.系统日志ToolStripMenuItem.Text = "系统日志";
             this.系统日志ToolStripMenuItem.Click += new System.EventHandler(this.系统日志ToolStripMenuItem_Click);
             // 

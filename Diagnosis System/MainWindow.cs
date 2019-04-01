@@ -41,5 +41,12 @@ namespace Diagnosis_System
             lvf.MdiParent = this;
             lvf.Show();
         }
+
+        private void 新建人员档案ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            patient.CreatePatientForm cpf = new patient.CreatePatientForm();
+            cpf.MdiParent = this;
+            cpf.Show();
+        }
     }
 }

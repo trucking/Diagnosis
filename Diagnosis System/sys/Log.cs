@@ -39,8 +39,7 @@ namespace Diagnosis_System.sys
         {
             DataSet ds = new DataSet();            
             AccessLib.AccessLib ac = new AccessLib.AccessLib(Program.MdbFile);
-            ds = ac.Select("sys_log", " 1=1 order by id desc");
-            MessageBox.Show(ds.Tables[0].Rows[0][0].ToString());
+            ds = ac.Select("sys_log", " 1=1 order by id desc");           
             ac.CloseConn();
             return ds;
         }
