@@ -29,3 +29,5 @@ E:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis Sy
 E:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis System.exe
 E:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis System.pdb
 d:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis_System.patient.CreatePatientForm.resources
+D:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis_System.patient.SearchPatientForm.resources
+D:\visual studio\c#\Diagnosis System\Diagnosis System\obj\x86\Debug\Diagnosis_System.consultation.CreateConsultationForm.resources

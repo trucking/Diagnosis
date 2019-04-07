@@ -48,5 +48,12 @@ namespace Diagnosis_System
             cpf.MdiParent = this;
             cpf.Show();
         }
+
+        private void 查找档案ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            patient.SearchPatientForm spf = new patient.SearchPatientForm();
+            spf.MdiParent = this;
+            spf.Show();
+        }
     }
 }

@@ -38,6 +38,9 @@
             this.添加用户ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.修改用户ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.系统日志ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.人员档案导入ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.人员档案导出ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.日志导出ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -58,7 +61,9 @@
             // 
             this.就诊人员档案ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.新建人员档案ToolStripMenuItem,
-            this.查找档案ToolStripMenuItem});
+            this.查找档案ToolStripMenuItem,
+            this.人员档案导入ToolStripMenuItem,
+            this.人员档案导出ToolStripMenuItem});
             this.就诊人员档案ToolStripMenuItem.Name = "就诊人员档案ToolStripMenuItem";
             this.就诊人员档案ToolStripMenuItem.Size = new System.Drawing.Size(92, 21);
             this.就诊人员档案ToolStripMenuItem.Text = "就诊人员档案";
@@ -75,6 +80,7 @@
             this.查找档案ToolStripMenuItem.Name = "查找档案ToolStripMenuItem";
             this.查找档案ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.查找档案ToolStripMenuItem.Text = "查找档案";
+            this.查找档案ToolStripMenuItem.Click += new System.EventHandler(this.查找档案ToolStripMenuItem_Click);
             // 
             // 就诊记录ToolStripMenuItem
             // 
@@ -101,23 +107,43 @@
             // 添加用户ToolStripMenuItem
             // 
             this.添加用户ToolStripMenuItem.Name = "添加用户ToolStripMenuItem";
-            this.添加用户ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.添加用户ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.添加用户ToolStripMenuItem.Text = "添加用户";
             this.添加用户ToolStripMenuItem.Click += new System.EventHandler(this.添加用户ToolStripMenuItem_Click);
             // 
             // 修改用户ToolStripMenuItem
             // 
             this.修改用户ToolStripMenuItem.Name = "修改用户ToolStripMenuItem";
-            this.修改用户ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.修改用户ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.修改用户ToolStripMenuItem.Text = "用户管理";
             this.修改用户ToolStripMenuItem.Click += new System.EventHandler(this.修改用户ToolStripMenuItem_Click);
             // 
             // 系统日志ToolStripMenuItem
             // 
+            this.系统日志ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.日志导出ToolStripMenuItem});
             this.系统日志ToolStripMenuItem.Name = "系统日志ToolStripMenuItem";
-            this.系统日志ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.系统日志ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.系统日志ToolStripMenuItem.Text = "系统日志";
             this.系统日志ToolStripMenuItem.Click += new System.EventHandler(this.系统日志ToolStripMenuItem_Click);
+            // 
+            // 人员档案导入ToolStripMenuItem
+            // 
+            this.人员档案导入ToolStripMenuItem.Name = "人员档案导入ToolStripMenuItem";
+            this.人员档案导入ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.人员档案导入ToolStripMenuItem.Text = "人员档案导入";
+            // 
+            // 人员档案导出ToolStripMenuItem
+            // 
+            this.人员档案导出ToolStripMenuItem.Name = "人员档案导出ToolStripMenuItem";
+            this.人员档案导出ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.人员档案导出ToolStripMenuItem.Text = "人员档案导出";
+            // 
+            // 日志导出ToolStripMenuItem
+            // 
+            this.日志导出ToolStripMenuItem.Name = "日志导出ToolStripMenuItem";
+            this.日志导出ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.日志导出ToolStripMenuItem.Text = "日志导出";
             // 
             // MainWindow
             // 
@@ -151,5 +177,8 @@
         private System.Windows.Forms.ToolStripMenuItem 添加用户ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 修改用户ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 系统日志ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem 人员档案导入ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem 人员档案导出ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem 日志导出ToolStripMenuItem;
     }
 }

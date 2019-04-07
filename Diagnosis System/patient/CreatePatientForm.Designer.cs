@@ -111,6 +111,7 @@
             this.AgeTextBox.Name = "AgeTextBox";
             this.AgeTextBox.Size = new System.Drawing.Size(129, 21);
             this.AgeTextBox.TabIndex = 8;
+            this.AgeTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.AgeTextBox_KeyPress);
             // 
             // TelphoneTextBox
             // 
@@ -129,6 +130,7 @@
             // SexManRadioButton
             // 
             this.SexManRadioButton.AutoSize = true;
+            this.SexManRadioButton.Checked = true;
             this.SexManRadioButton.Location = new System.Drawing.Point(225, 52);
             this.SexManRadioButton.Name = "SexManRadioButton";
             this.SexManRadioButton.Size = new System.Drawing.Size(35, 16);
